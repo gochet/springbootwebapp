@@ -10,3 +10,8 @@ I believe that tomorrow, I will try to implement Postgresql and see what happens
 Began making slight changes to HTML pages, and realized that I need to re-build and restart the application every time I want to see changes.
 Have spent the morning trying to understand how to remedy this.  It appears to be a function of running TomCat within Spring Boot.  Adjusting 
 Thymeleaf settings was supposed to help, but has not.
+
+6:57 PM Wednesday, March 16, 2016
+FINALLY figured out that the reason refresh wouldn't work was because static content weren't being stored in webapp resources folder.  This was a learning
+experience.  Making small changes to the HTML in order to figure out Thymeleaf.  I downloaded and installed Postgresql, and will try to 
+implement it tomorrow.
