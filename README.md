@@ -15,3 +15,7 @@ Thymeleaf settings was supposed to help, but has not.
 FINALLY figured out that the reason refresh wouldn't work was because static content weren't being stored in webapp resources folder.  This was a learning
 experience.  Making small changes to the HTML in order to figure out Thymeleaf.  I downloaded and installed Postgresql, and will try to 
 implement it tomorrow.
+
+6:43 PM Monday, April 11, 2016
+Spent most of today getting the H2 console to work, and understanding it.  Began the transition to Postgresql.  It is quite a bit more complex than I 
+was hoping for...
